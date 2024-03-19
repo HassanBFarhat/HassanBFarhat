@@ -4,10 +4,13 @@
 
 <h2 align=center> Hello, I see you've stumbled on my page! I'm Hassan Farhat </h2>
 <p align=center> 
-  I'm a current graduating senior at the University of Washington Tacoma, majoring in B.S. Computer Science and Systems. While my industry experience is limited, my time at UWT has been crucial for my growth. I've engaged   in collaborative projects within a simulated industry setting, given that of the university, which has fortified my skills in teamwork, communication, and problem-solving, laying a strong foundation for my career.
+  I'm a current graduating senior at the University of Washington Tacoma, majoring in B.S. Computer Science and Systems.
   <br/>
   <br/>
-  As I near graduation and step closer into the professional space, I carry with me the lessons, both good and bad, from all these experiences. Having gained tons of theoretical knowledge and practical expertise, I am       excited to make meaningful contributions in the Software Engineering space! With determination as my compass, I eagerly anticipate the challenges and victories that lie ahead, ready to leave a lasting mark in the world    of Technology and Software Engineering!
+  I've engaged in many collaborative projects which has helped me work on my skills in teamwork, communication, and problem-solving.
+  <br/>
+  <br/>
+  Having gained tons of theoretical knowledge and practical expertise from my studies, I am interested in working as a SWE, on projects such as Frontend, Backend, Fullstack... really anything that is enjoyable and may have an impact on others.
 </p>
 <br/>
 
