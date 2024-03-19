@@ -14,10 +14,6 @@
 </p>
 <br/>
 
-<h2 align=center> Skillset </h2>
-<p align=center> list out skills...</p>
-<br/>
-
 <h2 align=center> Languages, Tools, Technologies </h2>
 <p align=center>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
